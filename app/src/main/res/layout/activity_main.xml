@@ -7,12 +7,89 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
+        android:id="@+id/textView3"
+        android:layout_width="408dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="544dp"
+        android:text="أبوهريرة‎"
+        android:textAlignment="center"
+        android:textColor="#FD0000"
+        android:textSize="60sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.459"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="404dp"
+        android:layout_height="98dp"
+        android:text="WELCOME"
+        android:textAlignment="center"
+        android:textColor="#FD0000"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btn_qaida"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.746" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="401dp"
+        android:layout_height="66dp"
+        android:layout_marginBottom="156dp"
+        android:text="Created By "
+        android:textAlignment="center"
+        android:textColor="#FD0000"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_quiz" />
+
+    <Button
+        android:id="@+id/btn_quiz"
+        android:layout_width="266dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="372dp"
+        android:layout_marginEnd="73dp"
+        android:layout_marginBottom="37dp"
+        android:background="#F40404"
+        android:shadowColor="#E80D0D"
+        android:text="Quiz"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="#F6ECEC" />
+
+    <Button
+        android:id="@+id/btn_qaida"
+        android:layout_width="258dp"
+        android:layout_height="110dp"
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="224dp"
+        android:layout_marginEnd="73dp"
+        android:background="#FF4500"
+        android:shadowColor="#E80D0D"
+        android:text="English Qaida"
+        android:textColor="#FFFFFF"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="#F6ECEC" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
