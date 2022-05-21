@@ -8,17 +8,18 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="408dp"
-        android:layout_height="72dp"
-        android:layout_marginTop="544dp"
+        android:layout_width="336dp"
+        android:layout_height="92dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="472dp"
         android:text="أبوهريرة‎"
         android:textAlignment="center"
         android:textColor="#FD0000"
         android:textSize="60sp"
         android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.459"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintHorizontal_bias="0.695"
+        app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
@@ -39,8 +40,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="401dp"
-        android:layout_height="66dp"
+        android:layout_width="306dp"
+        android:layout_height="41dp"
         android:layout_marginBottom="156dp"
         android:text="Created By "
         android:textAlignment="center"
@@ -48,28 +49,24 @@
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_quiz" />
+        app:layout_constraintEnd_toEndOf="@+id/btn_quiz"
+        app:layout_constraintStart_toStartOf="@+id/btn_quiz"
+        app:layout_constraintTop_toBottomOf="@+id/btn_quiz"
+        app:layout_constraintVertical_bias="0.285" />
 
     <Button
         android:id="@+id/btn_quiz"
         android:layout_width="266dp"
         android:layout_height="0dp"
-        android:layout_marginStart="73dp"
-        android:layout_marginTop="372dp"
-        android:layout_marginEnd="73dp"
-        android:layout_marginBottom="37dp"
+        android:layout_marginTop="328dp"
         android:background="#F40404"
         android:shadowColor="#E80D0D"
         android:text="Quiz"
         android:textColor="#FFFFFF"
         android:textSize="40sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/textView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.428"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btn_qaida"
+        app:layout_constraintStart_toStartOf="@+id/btn_qaida"
         app:layout_constraintTop_toTopOf="parent"
         app:strokeColor="#F6ECEC" />
 
@@ -78,9 +75,10 @@
         android:layout_width="258dp"
         android:layout_height="110dp"
         android:layout_marginStart="73dp"
-        android:layout_marginTop="224dp"
+        android:layout_marginTop="184dp"
         android:layout_marginEnd="73dp"
         android:background="#FF4500"
+        android:onClick="abc_qaida"
         android:shadowColor="#E80D0D"
         android:text="English Qaida"
         android:textColor="#FFFFFF"
