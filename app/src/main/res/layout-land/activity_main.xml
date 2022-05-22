@@ -60,6 +60,7 @@
         android:layout_marginTop="96dp"
         android:layout_marginEnd="84dp"
         android:background="#F40404"
+        android:onClick="quiz_app"
         android:shadowColor="#E80D0D"
         android:text="Quiz"
         android:textColor="#FFFFFF"

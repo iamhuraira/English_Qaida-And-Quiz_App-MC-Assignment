@@ -18,4 +18,9 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this, abc_page.class);
         startActivity(i);
     }
+
+    public void quiz_app(View view) {
+        Intent i = new Intent(this, start_quiz.class);
+        startActivity(i);
+    }
 }
