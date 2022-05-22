@@ -10,6 +10,72 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.English_QaidaAndQuiz_AppMCAssignment">
         <activity
+            android:name=".u"
+            android:exported="false" />
+        <activity
+            android:name=".t"
+            android:exported="false" />
+        <activity
+            android:name=".s"
+            android:exported="false" />
+        <activity
+            android:name=".r"
+            android:exported="false" />
+        <activity
+            android:name=".q"
+            android:exported="false" />
+        <activity
+            android:name=".p"
+            android:exported="false" />
+        <activity
+            android:name=".o"
+            android:exported="false" />
+        <activity
+            android:name=".n"
+            android:exported="false" />
+        <activity
+            android:name=".m"
+            android:exported="false" />
+        <activity
+            android:name=".l"
+            android:exported="false" />
+        <activity
+            android:name=".k"
+            android:exported="false" />
+        <activity
+            android:name=".j"
+            android:exported="false" />
+        <activity
+            android:name=".i"
+            android:exported="false" />
+        <activity
+            android:name=".h"
+            android:exported="false" />
+        <activity
+            android:name=".g"
+            android:exported="false" />
+        <activity
+            android:name=".f"
+            android:exported="false" />
+        <activity
+            android:name=".E"
+            android:exported="false" />
+        <activity
+            android:name=".d"
+            android:exported="false" />
+        <activity
+            android:name=".c"
+            android:exported="false" />
+        <activity
+            android:name=".b"
+            android:exported="false" />
+        <activity
+            android:name=".a"
+            android:exported="false" />
+        <activity
+            android:name=".abc_page"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

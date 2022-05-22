@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_a.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_abc_page.xml" value="0.4" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_b.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_c.xml" value="0.203125" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_d.xml" value="0.203125" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_e.xml" value="0.203125" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_f.xml" value="0.203125" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_g.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_h.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_i.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_j.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_k.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_l.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_m.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_main.xml" value="0.2625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_n.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_o.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_p.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_q.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_r.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_s.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_t.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout-land/activity_u.xml" value="0.290625" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_a.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_abc_page.xml" value="0.40484429065743943" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_b.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_c.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_d.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_e.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_f.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_g.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_h.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_i.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_j.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_k.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_l.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_m.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_n.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_o.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_p.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_q.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_r.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_s.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_t.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abu Huraira/AndroidStudioProjects/English_QaidaAndQuiz_AppMCAssignment/app/src/main/res/layout/activity_u.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
