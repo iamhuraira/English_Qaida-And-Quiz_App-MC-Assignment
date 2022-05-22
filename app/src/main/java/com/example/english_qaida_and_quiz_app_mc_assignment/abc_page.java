@@ -128,11 +128,11 @@ public class abc_page extends AppCompatActivity {
         Intent i = new Intent(this, w.class);
        startActivity(i);
     }
-//
-//    public void x_click(View view) {
-//        Intent i = new Intent(this, x.class);
-//        startActivity(i);
-//    }
+
+    public void x_click(View view) {
+      Intent i = new Intent(this, x.class);
+      startActivity(i);
+   }
 //
 //    public void y_click(View view) {
 //        Intent i = new Intent(this, y.class);
