@@ -6,4 +6,27 @@
     android:layout_height="match_parent"
     tools:context=".start_quiz">
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="411dp"
+        android:layout_height="82dp"
+        android:layout_marginTop="124dp"
+        android:gravity="center"
+        android:text="My Quiz App"
+        android:textColor="#FF0000"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <Button
+        android:id="@+id/quiz"
+        android:layout_width="211dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="80dp"
+        android:text="Start Quiz"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
 </androidx.constraintlayout.widget.ConstraintLayout>
