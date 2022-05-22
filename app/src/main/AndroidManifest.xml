@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.English_QaidaAndQuiz_AppMCAssignment">
         <activity
+            android:name=".q3"
+            android:exported="false" />
+        <activity
+            android:name=".q2"
+            android:exported="false" />
+        <activity
+            android:name=".q1"
+            android:exported="false" />
+        <activity
             android:name=".start_quiz"
             android:exported="false" />
         <activity
