@@ -28,4 +28,9 @@ public class abc_page extends AppCompatActivity {
         Intent i = new Intent(this, c.class);
         startActivity(i);
     }
+
+    public void d_click(View view) {
+        Intent i = new Intent(this, d.class);
+        startActivity(i);
+    }
 }

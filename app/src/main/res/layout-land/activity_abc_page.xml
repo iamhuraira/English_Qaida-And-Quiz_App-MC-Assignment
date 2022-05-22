@@ -122,6 +122,7 @@
             android:insetBottom="0dp"
             android:minWidth="40dp"
             android:minHeight="40dp"
+            android:onClick="d_click"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
             android:text="D"
