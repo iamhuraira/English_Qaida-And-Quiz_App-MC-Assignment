@@ -123,11 +123,11 @@ public class abc_page extends AppCompatActivity {
     Intent i = new Intent(this, v.class);
    startActivity(i);
    }
-//
-//    public void w_click(View view) {
-//        Intent i = new Intent(this, w.class);
-//        startActivity(i);
-//    }
+
+    public void w_click(View view) {
+        Intent i = new Intent(this, w.class);
+       startActivity(i);
+    }
 //
 //    public void x_click(View view) {
 //        Intent i = new Intent(this, x.class);
