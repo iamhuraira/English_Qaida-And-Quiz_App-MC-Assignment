@@ -146,6 +146,7 @@
             android:insetTop="0dp"
             android:insetBottom="0dp"
             android:minWidth="40dp"
+            android:onClick="e_click"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
             android:text="E"
